@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8CE6f84996B4134932eC476dBBe734E4D731607d",
+  "SCAN_LINK": "https://etherscan.io/address/0x8ce6f84996b4134932ec476dbbe734e4d731607d",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 1
+  },
+  "NFT_NAME": "Monkey Business NFT",
+  "SYMBOL": "MBN",
+  "MAX_SUPPLY": 2500,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/monkey-businessnft",
+  "SHOW_BACKGROUND": true
+}
